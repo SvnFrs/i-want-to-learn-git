@@ -2,3 +2,4 @@
 testing github repo for learning
 
 this repo will be full of bugs later
+Coursera sucks
